@@ -32,4 +32,4 @@ This project recreates the nostalgic gameplay experience using only text-based r
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/snake-game-c.git
+   git clone https://github.com/maharshijd/snake-game-c.git
